@@ -17,47 +17,47 @@ This project was made possible by the following contributors:
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 20px; text-align: center;">
-    <img src="https://via.placeholder.com/100" alt="Contributor 1" style="border-radius: 50%;">
+    <img src="https://via.placeholder.com/100" alt="Hari" style="border-radius: 50%;">
     <div>
-      <strong>Contributor 1</strong>
+      <strong>Hari Vennelakanti</strong>
+      <br>
+      <span>PT, DPT</span>
+    </div>
+    <!-- <div style="margin-top: 5px;">
+      <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
+    </div> -->
+  </div>
+  <div style="margin-right: 20px; text-align: center;">
+    <img src="https://via.placeholder.com/100" alt="Likhitha" style="border-radius: 50%;">
+    <div>
+      <strong>Likhitha Satulur</strong>
+      <br>
+      <span>B. Tech</span>
+    </div>
+    <!-- <div style="margin-top: 5px;">
+      <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
+    </div> -->
+  </div>
+  <div style="margin-right: 20px; text-align: center;">
+    <img src="https://via.placeholder.com/100" alt="Lakshay" style="border-radius: 50%;">
+    <div>
+      <strong>Lakshay Roopchandani</strong>
+      <br>
+      <span>B. Tech</span>
+    </div>
+    <!-- <div style="margin-top: 5px;">
+      <a href="#">GitHub</a> | <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
+    </div> -->
+  </div>
+  <div style="margin-right: 20px; text-align: center;">
+    <img src="https://via.placeholder.com/100" alt="Peter" style="border-radius: 50%;">
+    <div>
+      <strong>Peter Muriuki</strong>
       <br>
       <span>Software Engineer</span>
     </div>
-    <div style="margin-top: 5px;">
-      <a href="#">GitHub</a> | <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
-    </div>
-  </div>
-  <div style="margin-right: 20px; text-align: center;">
-    <img src="https://via.placeholder.com/100" alt="Contributor 2" style="border-radius: 50%;">
-    <div>
-      <strong>Contributor 2</strong>
-      <br>
-      <span>Data Scientist</span>
-    </div>
-    <div style="margin-top: 5px;">
-      <a href="#">GitHub</a> | <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
-    </div>
-  </div>
-  <div style="margin-right: 20px; text-align: center;">
-    <img src="https://via.placeholder.com/100" alt="Contributor 3" style="border-radius: 50%;">
-    <div>
-      <strong>Contributor 3</strong>
-      <br>
-      <span>Machine Learning Engineer</span>
-    </div>
-    <div style="margin-top: 5px;">
-      <a href="#">GitHub</a> | <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
-    </div>
-  </div>
-  <div style="margin-right: 20px; text-align: center;">
-    <img src="https://via.placeholder.com/100" alt="Contributor 4" style="border-radius: 50%;">
-    <div>
-      <strong>Contributor 4</strong>
-      <br>
-      <span>Clinical Data Analyst</span>
-    </div>
-    <div style="margin-top: 5px;">
-      <a href="#">GitHub</a> | <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
-    </div>
+    <!-- <div style="margin-top: 5px;">
+      <a href="https://github.com/peterMuriuki/">GitHub</a> | <a href="https://www.linkedin.com/in/peter-muriuki-094b8411a/">LinkedIn</a> | <a href="https://x.com/p_netm">Twitter</a>
+    </div> -->
   </div>
 </div>
