@@ -50,15 +50,11 @@ The pipeline consists of several stages, from input processing to response gener
 
 ## **6\. Tech Stack**
 
-* # Backend Logic: Python 3.11
-
-* # Development Environment: Kaggle Notebook
-
-* # Generative AI: Google GenAI (google.genai, google.genai.types)
-
-* # API Handling: Google API Core and Retry
-
-* # AI Experimentation Platform: Google AI Studio
+*  Backend Logic: Python 3.11
+*  Development Environment: Kaggle Notebook
+*  Generative AI: Google GenAI (google.genai, google.genai.types)
+*  API Handling: Google API Core and Retry
+*  AI Experimentation Platform: Google AI Studio
 
 ## **7\. Output**
 
