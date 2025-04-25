@@ -1,0 +1,3 @@
+# AI-Powered Clinical Documentation Assistant
+
+This notebook demonstrates an AI-powered workflow designed to alleviate the burden of medical documentation. It automatically processes audio recordings of physician-patient encounters to extract structured medical information, pre-fill relevant clinical forms, generate standardized clinical notes (SOAP notes), and output data in FHIR format for seamless integration with EHRs. The solution employs a multi-step process orchestrated using LangGraph, including questionnaire discovery (RAG), audio processing & form filling, SOAP note generation, and FHIR resource creation.
