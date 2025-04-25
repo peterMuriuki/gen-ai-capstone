@@ -15,49 +15,51 @@ This project demonstrates how generative AI can be used to automate medical docu
 
 This project was made possible by the following contributors:
 
-<div style="display: flex; flex-direction: row;">
-  <div style="margin-right: 20px; text-align: center;">
-    <img src="https://via.placeholder.com/100" alt="Hari" style="border-radius: 50%;">
-    <div>
-      <strong>Hari Vennelakanti</strong>
-      <br>
-      <span>PT, DPT</span>
-    </div>
-    <!-- <div style="margin-top: 5px;">
-      <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
-    </div> -->
-  </div>
-  <div style="margin-right: 20px; text-align: center;">
-    <img src="https://via.placeholder.com/100" alt="Likhitha" style="border-radius: 50%;">
-    <div>
-      <strong>Likhitha Satulur</strong>
-      <br>
-      <span>B. Tech</span>
-    </div>
-    <!-- <div style="margin-top: 5px;">
-      <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
-    </div> -->
-  </div>
-  <div style="margin-right: 20px; text-align: center;">
-    <img src="https://via.placeholder.com/100" alt="Lakshay" style="border-radius: 50%;">
-    <div>
-      <strong>Lakshay Roopchandani</strong>
-      <br>
-      <span>B. Tech</span>
-    </div>
-    <!-- <div style="margin-top: 5px;">
-      <a href="#">GitHub</a> | <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
-    </div> -->
-  </div>
-  <div style="margin-right: 20px; text-align: center;">
-    <img src="https://via.placeholder.com/100" alt="Peter" style="border-radius: 50%;">
-    <div>
-      <strong>Peter Muriuki</strong>
-      <br>
-      <span>Software Engineer</span>
-    </div>
-    <!-- <div style="margin-top: 5px;">
-      <a href="https://github.com/peterMuriuki/">GitHub</a> | <a href="https://www.linkedin.com/in/peter-muriuki-094b8411a/">LinkedIn</a> | <a href="https://x.com/p_netm">Twitter</a>
-    </div> -->
-  </div>
-</div>
+<table>
+  <tr>
+    <td  align="center" valign="top" width="25%" style="text-align: center;">
+      <img src="https://via.placeholder.com/100" alt="Hari Vennelakanti" style="border-radius: 50%;">
+      <div>
+        <strong>Hari Vennelakanti </strong>
+        <br>
+        <span>PT, DPT</span>
+      </div>
+      <div>
+        <a href="https://www.linkedin.com/in/harivennelakanti/">LinkedIn</a>
+      </div>
+    </td>
+    <td  align="center" valign="top" width="25%" style="text-align: center;">
+      <img src="#" alt="Likhitha Satulur" style="border-radius: 50%;">
+      <div>
+        <strong>Likhitha Satulur</strong>
+        <br>
+        <span>B.Tech</span>
+      </div>
+      <div>
+        <a href="https://www.linkedin.com/in/likhitha-satuluri-72a283224/">LinkedIn</a>
+      </div>
+    </td>
+    <td  align="center" valign="top" width="25%" style="text-align: center;">
+      <img src="https://via.placeholder.com/100" alt="Lakshay Roopchandani " style="border-radius: 50%;">
+      <div>
+        <strong>Lakshay Roopchandani</strong>
+        <br>
+        <span>B. Tech</span>
+      </div>
+      <div>
+        <a href="https://www.linkedin.com/in/lakshay-roopchandani-990a63240/">LinkedIn</a>
+      </div>
+    </td>
+    <td  align="center" valign="top" width="25%" style="text-align: center;">
+      <img src="https://avatars.githubusercontent.com/u/28119869?v=4" alt="Peter Muriuki" style="border-radius: 50%;">
+      <div>
+        <strong>Peter Muriuki</strong>
+        <br>
+        <span>Software Engineer</span>
+      </div>
+      <div>
+        <a href="https://github.com/peterMuriuki/">GitHub</a> | <a href="https://www.linkedin.com/in/peter-muriuki-094b8411a/">LinkedIn</a>
+      </div>
+    </td>
+  </tr>
+</table>
