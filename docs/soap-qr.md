@@ -155,3 +155,7 @@ Video:
 ## Youtube overview
 
 [![Watch the youtube video here](https://img.youtube.com/vi/WPI29gPuDqE/0.jpg)](https://www.youtube.com/watch?v=WPI29gPuDqE)
+
+## Prefer some slides
+
+[View the Google Slides presentation](https://docs.google.com/presentation/d/1cbBkJVE7JXH_mgLXcklRrEMwDu2FRC4geex5jyly4GA/edit?slide=id.g34d99db23ea_0_0#slide=id.g34d99db23ea_0_0)
