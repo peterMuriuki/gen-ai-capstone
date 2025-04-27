@@ -40,7 +40,7 @@ This project was made possible by the following contributors:
       </div>
     </td>
     <td  align="center" valign="top" width="25%" style="text-align: center;">
-      <img src="https://via.placeholder.com/100" alt="Lakshay Roopchandani " style="border-radius: 50%;">
+      <img src="https://github.com/peterMuriuki/gen-ai-capstone/blob/main/docs/contribs/lakshay.png?raw=true" alt="Lakshay Roopchandani " style="border-radius: 50%;">
       <div>
         <strong>Lakshay Roopchandani</strong>
         <br>
