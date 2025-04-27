@@ -8,7 +8,7 @@ This growing dissatisfaction underscores the need for a smarter, more efficient 
 
 This project addresses that gap by building a generative AI-based pipeline for automating medical documentation. The system processes audio-based doctor-patient interactions and outputs structured, FHIR-compliant resources, including QuestionnaireResponse objects and SOAP-style summaries. The goal is to minimize manual documentation work in healthcare settings by generating AI-powered clinical records that are accurate, standardized, and immediately usable.
 
-[show me the code](../notebooks/soap-qr.ipynb)
+[Show me the code](https://github.com/peterMuriuki/gen-ai-capstone/blob/main/notebooks/soap-qr.ipynb){:target="_blank"}
 
 ## **2\. Problem Statement**
 

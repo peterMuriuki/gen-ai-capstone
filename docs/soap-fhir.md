@@ -11,7 +11,7 @@ Clinicians spend a significant amount of time on charting and paperwork, leading
 This project addresses this problem by building a generative AI-based pipeline that automates medical documentation. The system processes audio-based doctor-patient interactions and outputs structured, FHIR-compliant resources.
 
 
-[Show me the code](../notebooks/soap-fhir.ipynb)
+[Show me the code](https://github.com/peterMuriuki/gen-ai-capstone/blob/main/notebooks/soap-fhir.ipynb){:target="_blank"}
 
 ## How It Works
 

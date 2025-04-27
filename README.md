@@ -18,7 +18,7 @@ This project was made possible by the following contributors:
 <table>
   <tr>
     <td  align="center" valign="top" width="25%" style="text-align: center;">
-      <img src="https://via.placeholder.com/100" alt="Hari Vennelakanti" style="border-radius: 50%;">
+      <img src="https://via.placeholder.com/100" alt="Hari Vennelakanti" style="height: 200px">
       <div>
         <strong>Hari Vennelakanti </strong>
         <br>
@@ -29,7 +29,7 @@ This project was made possible by the following contributors:
       </div>
     </td>
     <td  align="center" valign="top" width="25%" style="text-align: center;">
-      <img src="#" alt="Likhitha Satulur" style="border-radius: 50%;">
+      <img src="#" alt="Likhitha Satulur" style="height: 200px">
       <div>
         <strong>Likhitha Satulur</strong>
         <br>
@@ -40,7 +40,7 @@ This project was made possible by the following contributors:
       </div>
     </td>
     <td  align="center" valign="top" width="25%" style="text-align: center;">
-      <img src="https://github.com/peterMuriuki/gen-ai-capstone/blob/main/docs/contribs/lakshay.png?raw=true" alt="Lakshay Roopchandani " style="border-radius: 50%;">
+      <img src="https://github.com/peterMuriuki/gen-ai-capstone/blob/main/docs/contribs/lakshay.png?raw=true" alt="Lakshay Roopchandani " style="height: 200px">
       <div>
         <strong>Lakshay Roopchandani</strong>
         <br>
@@ -51,7 +51,7 @@ This project was made possible by the following contributors:
       </div>
     </td>
     <td  align="center" valign="top" width="25%" style="text-align: center;">
-      <img src="https://avatars.githubusercontent.com/u/28119869?v=4" alt="Peter Muriuki" style="border-radius: 50%;">
+      <img src="https://avatars.githubusercontent.com/u/28119869?v=4" alt="Peter Muriuki" style="height: 200px">
       <div>
         <strong>Peter Muriuki</strong>
         <br>
